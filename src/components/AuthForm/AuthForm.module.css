@@ -10,6 +10,18 @@
   background-repeat: no-repeat;
   background-position: bottom;
 }
+.containdwaers {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 68px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
 
 .error__password {
   position: absolute;
